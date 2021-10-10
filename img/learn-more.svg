@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="141" height="33" viewBox="0 0 141 33">
+  <g id="Button" transform="translate(-143 -683)">
+    <g id="Rectangle_1463" data-name="Rectangle 1463" transform="translate(143 683)" fill="#d5d5d5" stroke="#707070" stroke-width="1">
+      <rect width="141" height="33" rx="16.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="140" height="32" rx="16" fill="none"/>
+    </g>
+    <text id="Plan_Your_Visit" data-name="Plan Your Visit" transform="translate(172 705)" font-size="14" font-family="TitilliumWeb-Regular, Titillium Web"><tspan x="0" y="0">Plan Your Visit</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+header{
+	background-color: #454545;
+	padding: 1rem;
+}
+
+#main-menu{
+	background-color: #454545;
+}
+
+#main-menu nav {
+ 	display: flex;
+ 	height: 100%;
+}
+
+#main-menu ul {
+ 	margin: auto 0;
+ 	padding: 0;
+ 	list-style: none;
+}
+
+#main-menu a {
+	font-family: 'Sofia Pro', sans-serif;  
+ 	color: #FFFF;
+ 	font-size: 3.5rem;
+}
+
+#close-button{
+	color: #D85933;
+}
+
+body{
+	background-color: #0F2E47;
+}
+
+body img{
+	width: 400 px;
+	height: auto;
+}
+
+main-menu{
+	float: right;
+}
+
+h1 {
+	color: #D85933;
+	font-size: 2.8rem;
+	font-family: 'Sofia Pro', sans-serif;  
+	font-weight: 400;
+	font-style: normal; 
+	line-height: 1.2; 
+	padding-top: 2rem;
+}
+
+h2 {
+	color: #D85933;
+	font-size: 1.5rem;
+	font-family: 'Sofia Pro', sans-serif; 
+	padding-top: .8rem;                                 
+}
+
+p {
+	color: #E3E3E3;
+	font-size: 1rem;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.button{
+	background-color: #D5D5D5;
+	color: #000;
+}
+
+footer{
+	background-color: #454545;
+	padding: 1rem;
+}
